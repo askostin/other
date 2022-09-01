@@ -1,0 +1,6 @@
+*~
+*.bak
+__pycache__/
+*.py#
+*.txt
+*.ipynb
